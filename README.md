@@ -1,4 +1,4 @@
-🌳 Green Space Data Challenge
+### Green Space Data Challenge
 
 The Green Space Data Challenge by Georgetown University Massive Data Institute invited participants to explore the connections between green spaces, community well-being, and data-driven insights .
 
