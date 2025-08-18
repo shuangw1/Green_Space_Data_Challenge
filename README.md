@@ -1,11 +1,10 @@
 🌳 Green Space Data Challenge
 
-The Green Space Data Challenge by Georgetown University Massive Data Institute invited participants to explore the connections between green spaces 🌱, community well-being 🏘️, and data-driven insights 📊.
+The Green Space Data Challenge by Georgetown University Massive Data Institute invited participants to explore the connections between green spaces, community well-being, and data-driven insights .
 
-🔗 About the Competition
+🔗 About the Competition 
 
-👉 Learn more about the challenge
+https://mdi.georgetown.edu/pbi/greenspace/
 
-🏆 About the Results
-
-👉 Read about the winners & community safety insights
+👉 Read about the winners (our group) community safety insights
+https://medium.com/georgetown-massive-data-institute/green-space-data-challenge-community-safety-winners-c5ead557fbfa
