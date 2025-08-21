@@ -11,4 +11,4 @@ https://mdi.georgetown.edu/pbi/greenspace/
 👉 Our group won the first prize in this competition! Read about the community safety insights
 https://medium.com/georgetown-massive-data-institute/green-space-data-challenge-community-safety-winners-c5ead557fbfa
 
-Our result was presented at the 2023 APDU Annual Conference: Expanding the Universe of Public Data. Arlington, VA.
+Our result was presented at the 2023 APDU Annual Conference: Expanding the Universe of Public Data. Arlington, VA. https://apdu.org/?page_id=5644085
