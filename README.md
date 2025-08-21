@@ -8,5 +8,5 @@ Access to green space is an essential need and has been found to have important 
 
 https://mdi.georgetown.edu/pbi/greenspace/
 
-👉 Read about the winners (our group!) community safety insights
+👉 Our group won the first prize in this competition! Read about the community safety insights
 https://medium.com/georgetown-massive-data-institute/green-space-data-challenge-community-safety-winners-c5ead557fbfa
